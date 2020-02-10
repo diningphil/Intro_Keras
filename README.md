@@ -15,6 +15,7 @@ Then, in the Terminal/Anaconda Prompt type
     
     jupyter notebook
 
+Now run the code inside the Download MNIST notebook. Then we are good to go.
 
 ## Credits
 
