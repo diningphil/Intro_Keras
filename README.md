@@ -9,7 +9,8 @@ Then, in the Terminal/Anaconda Prompt type
 
     conda create -n intro-keras python=3.7
 
-    conda activate intro-keras
+    conda activate intro-keras (on Linux)
+    activate intro-keras (on Windows, Anaconda Prompt)
 
     pip install -r requirements.txt``
     
