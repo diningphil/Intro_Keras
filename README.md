@@ -2,6 +2,11 @@
 
 ## Install and start jupyter
 
+First, Install [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) on your laptop.
+
+Then, in the Terminal/Anaconda Prompt type
+
+
     conda create -n intro-keras python=3.7
 
     conda activate intro-keras
