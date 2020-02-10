@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 logs_linear/
+logs_vae
 checkpoints/
