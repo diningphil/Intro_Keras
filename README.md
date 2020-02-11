@@ -21,3 +21,5 @@ Now run the code inside the Download MNIST notebook. Then we are good to go.
 ## Credits
 
 Credits to [Francesco Crecchi](https://github.com/FrancescoCrecchi) and [Daniele Castellana](https://github.com/danielecastellana22) for providing all kinds of useful material!
+
+Preprocessed Membrane data taken from [this repo](https://github.com/zhixuhao/unet)
