@@ -13,7 +13,7 @@ Then, in the Terminal/Anaconda Prompt type
     conda activate intro-keras (on Linux)
     activate intro-keras (on Windows, Anaconda Prompt, run as Administrator)
 
-    pip install -r requirements.txt``
+    pip install -r requirements.txt
     
     jupyter notebook
 
